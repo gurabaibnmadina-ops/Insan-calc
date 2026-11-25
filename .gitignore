@@ -1,0 +1,17 @@
+# Compiled binaries & shared libraries
+insan_calc
+*.so
+*.dylib
+*.dll
+*.o
+*.obj
+*.out
+*.exe
+
+# Backups & editor files
+*.save
+*.swp
+*~
+.vscode/
+.idea/
+.DS_Store
